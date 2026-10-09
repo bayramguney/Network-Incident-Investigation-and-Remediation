@@ -1,4 +1,3 @@
-# Network-Incident-Investigation-and-Remediation
 # Training and Awareness Through Simulation
 
 ## Overview
